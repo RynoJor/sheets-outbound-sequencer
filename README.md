@@ -156,3 +156,10 @@ Use a dedicated sequencing tool when you need several sending inboxes with rotat
 | `src/Setup.gs` | Menu, workbook setup, triggers, status. |
 | `test/core.test.js` | Node tests for `Core.js`. |
 | `sample-sheet.csv` | 10 fake leads. |
+
+
+---
+
+**More from me:** [Portfolio and case study](https://rynojor.github.io) · [Revenue Leak Engine](https://github.com/RynoJor/revenue-leak-engine) (the flagship project, with a live dashboard) · [LinkedIn](https://www.linkedin.com/in/ryno-jordaan/)
+
+Built by Ryno Jordaan, GTM engineer.

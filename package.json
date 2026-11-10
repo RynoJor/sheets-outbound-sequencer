@@ -1,0 +1,12 @@
+{
+  "name": "sheets-outbound-sequencer",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Cold email sequencing on Google Sheets + Apps Script, with caps, stop-on-reply and unsubscribe.",
+  "scripts": {
+    "test": "node --test test/core.test.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
